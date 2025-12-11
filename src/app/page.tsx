@@ -15,7 +15,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold mb-6 bg-gradient-to-r from-foreground via-primary to-foreground bg-clip-text text-transparent py-2">
-            Next.js App Router Playground
+            Next.js LOG Playground
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             Interactively demonstrates the core features of Next.js App Router, for exploring functionalities like Nested layouts, Loading, and more.
